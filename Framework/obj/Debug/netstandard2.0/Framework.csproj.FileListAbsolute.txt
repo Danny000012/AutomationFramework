@@ -1,0 +1,9 @@
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\bin\Debug\netstandard2.0\Framework.deps.json
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\obj\Debug\netstandard2.0\Framework.csprojAssemblyReference.cache
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfoInputs.cache
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfo.cs
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\obj\Debug\netstandard2.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\obj\Debug\netstandard2.0\Framework.dll
+C:\Users\g988922\Desktop\FrameworkAssessment\Framework\obj\Debug\netstandard2.0\Framework.pdb

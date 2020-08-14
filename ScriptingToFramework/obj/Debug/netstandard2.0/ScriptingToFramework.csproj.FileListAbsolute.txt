@@ -1,0 +1,12 @@
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\bin\Debug\netstandard2.0\ScriptingToFramework.deps.json
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\bin\Debug\netstandard2.0\ScriptingToFramework.dll
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\bin\Debug\netstandard2.0\ScriptingToFramework.pdb
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.csprojAssemblyReference.cache
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.AssemblyInfoInputs.cache
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.AssemblyInfo.cs
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.csproj.CoreCompileInputs.cache
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.csproj.CopyComplete
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.dll
+C:\Users\g988922\Desktop\FrameworkAssessment\ScriptingToFramework\obj\Debug\netstandard2.0\ScriptingToFramework.pdb
